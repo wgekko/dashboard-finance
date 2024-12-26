@@ -9,11 +9,18 @@ carpeta crear un archivo llamado config.toml
 con los siguientes datos dentro
 
 [theme]
+
+https://github.com/user-attachments/assets/5cdc274d-ece1-4dce-8dc0-7d50e4cfbfb6
+
+
 primaryColor="#F63366"
 backgroundColor="#051a33"
 secondaryBackgroundColor="#07101c"
 textColor="#b5ff33"
 font="sans serif"
+
+para ejecutar la app debe colocar streamlit run app.py  // app-animada.py
+
 
 a continuación se deja un video que muestra el comportamiento
 de la app
