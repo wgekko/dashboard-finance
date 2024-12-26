@@ -20,7 +20,8 @@ para ejecutar la app debe colocar streamlit run app.py  // app-animada.py
 
 a continuación se deja un video que muestra el comportamiento
 de la app
-
+demo : 
+https://dashboard-financiero.streamlit.app/
 
 
 
