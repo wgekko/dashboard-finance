@@ -361,7 +361,7 @@ elif time_frame == 'Trimestral':
     df_display = get_quarterly_data(df)
 
 # Display Key Metrics --- mostrar los datos y metricas 
-st.subheader("Datos Estatisticos - Media de Activos Financieros")
+st.subheader("Datos Estadisticos - Media de Activos Financieros")
 
 #----------------- configuración de metricas a desplegar ---------------------------
 metrics = [
