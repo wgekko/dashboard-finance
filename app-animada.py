@@ -153,6 +153,10 @@ particles_js = """<!DOCTYPE html>
 </html>
 """
 
+
+#streamlit theme=none
+theme_plotly = None 
+
 st.set_page_config(page_title="Dashboard", page_icon="images/logo1.png", layout="wide")
 components.html(particles_js, height=120,scrolling=False)
 
