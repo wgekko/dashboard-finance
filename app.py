@@ -9,7 +9,7 @@ warnings.simplefilter("ignore", category=FutureWarning)
 theme_plotly = None 
 
 
-st.set_page_config(page_title="Dashboard", page_icon="images/logo1.png", layout="wide")
+st.set_page_config(page_title="Dashboar-Metricas", page_icon="images/logo1.png", layout="wide")
 
 #--------------- funciones de desarrollo de la appp
 #@st.cache_data
